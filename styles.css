@@ -165,7 +165,7 @@ td {
   #search_bar > input {
     width: 80vw;
   }
-  .scrollable_div {
+  .category {
     margin-top: 50px;
   }
 
@@ -196,4 +196,7 @@ td {
   td {
     text-align: center;
   }
+}
+.me {
+  text-align: center;
 }
