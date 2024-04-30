@@ -4,11 +4,11 @@
 }
 
 #search_bar {
-  border-radius: 10px !important;
+  border-radius: 10px;
 }
 #search_bar > input {
   width: 40vw;
-  border: none;
+  border: 1px solid #f8f8f8;
   padding: 10px;
   background-color: transparent;
 }
